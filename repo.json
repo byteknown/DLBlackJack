@@ -8,8 +8,6 @@
         "RepoUrl": "https://github.com/byteknown/DLBlackJack",
         "ApplicableVersion": "any",
         "Tags": [
-            "chocobo",
-            "racing",
             "minigames",
             "discord"
         ],
@@ -19,7 +17,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/byteknown/DLBlackJack/raw/main/ChocoboRacer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/byteknown/DLBlackJack/raw/main/ChocoboRacer/latest.zip",
-        "LastUpdated": "29102023"
+        "LastUpdated": "08112023"
     }
 
 ]
