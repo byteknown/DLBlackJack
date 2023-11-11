@@ -3,7 +3,7 @@
         "Author": "Moonhell",
         "Name": "DL Gamba",
         "Description": "Black Jack free Plugin",
-        "InternalName": "ChocoboRacer",
+        "InternalName": "DLGamba",
         "AssemblyVersion": "3.0.0.0",
         "RepoUrl": "https://github.com/byteknown/DLBlackJack",
         "ApplicableVersion": "any",
