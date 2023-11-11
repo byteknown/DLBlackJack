@@ -4,7 +4,7 @@
         "Name": "DL Gamba",
         "Description": "Black Jack free Plugin",
         "InternalName": "ChocoboRacer",
-        "AssemblyVersion": "2.0.0.0",
+        "AssemblyVersion": "3.0.0.0",
         "RepoUrl": "https://github.com/byteknown/DLBlackJack",
         "ApplicableVersion": "any",
         "Tags": [
@@ -12,11 +12,11 @@
             "discord"
         ],
         "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/byteknown/DLBlackJack/raw/main/ChocoboRacer/latest.zip",
+        "DownloadLinkInstall": "https://github.com/byteknown/DLBlackJack/raw/main/DLGamba/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/byteknown/DLBlackJack/raw/main/ChocoboRacer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/byteknown/DLBlackJack/raw/main/ChocoboRacer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/byteknown/DLBlackJack/raw/main/DLGamba/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/DLBlackJack/raw/main/DLGamba/latest.zip",
         "LastUpdated": "08112023"
     }
 
