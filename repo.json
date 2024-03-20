@@ -3,8 +3,8 @@
         "Author": "Moonhell",
         "Name": "DL Gamba",
         "Description": "Black Jack free Plugin",
-        "InternalName": "DLGamba",
-        "AssemblyVersion": "4.0.0.0",
+        "InternalName": "DLGambaClient",
+        "AssemblyVersion": "5.0.0.0",
         "RepoUrl": "https://github.com/byteknown/DLBlackJack",
         "ApplicableVersion": "any",
         "Tags": [
